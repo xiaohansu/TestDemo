@@ -1,0 +1,257 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.google.vr:sdk-panowidget:1.40.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/sdk-panowidget-1.40.0.aar/49543e886428fc6aed2e6f130ad97ad8/AndroidManifest.xml:2:1-4:12
+MERGED from [:multi-image-selector] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/multi-image-selector/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b327bcd57be6ff6590cbff97462293ef/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5daa415107d43c10e19ae8f355a7afa0/AndroidManifest.xml:2:1-11:12
+MERGED from [:openCVLibrary2411] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/openCVLibrary2411/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.vr:sdk-commonwidget:1.40.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/sdk-commonwidget-1.40.0.aar/756332f55f75913225d186889fac2f7f/AndroidManifest.xml:2:1-4:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab206434403b20c5b7095133e9ba123/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc45935bb626b30dbdbae72f4f0fd1d3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8bbf2b4fccd45e6673f41c7286a2e87e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f110a48c097b0ba54ae00227db76d036/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a3358057b7f1f18231f679b538d9072/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/241a2f08b7e22e31211d9911a9360cdc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/723311f9f2a902b19088dd1260a8c122/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d21880f4c7d7163fcc4ea0cdc434e9d8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.vr:sdk-common:1.40.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/sdk-common-1.40.0.aar/6c1df21a8a6e83dec5b5d1e4a7c5500d/AndroidManifest.xml:2:1-4:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5762f12feafb6c7ed499376d9e67ed25/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:5:22-71
+uses-permission#android.permission.INTERNET
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:multi-image-selector] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/multi-image-selector/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-81
+MERGED from [:multi-image-selector] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/multi-image-selector/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:9:5-80
+MERGED from [:multi-image-selector] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/multi-image-selector/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-80
+MERGED from [:multi-image-selector] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/multi-image-selector/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:14:22-73
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:16:22-75
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:17:5-73
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:17:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:18:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:20:5-84
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:20:22-81
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:22:5-89
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:22:22-86
+uses-permission#android.permission.CAMERA
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:23:5-64
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:23:22-62
+application
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:26:5-43:19
+MERGED from [:multi-image-selector] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/multi-image-selector/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-18:19
+MERGED from [:multi-image-selector] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/multi-image-selector/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-18:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b327bcd57be6ff6590cbff97462293ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b327bcd57be6ff6590cbff97462293ef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5daa415107d43c10e19ae8f355a7afa0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5daa415107d43c10e19ae8f355a7afa0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab206434403b20c5b7095133e9ba123/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab206434403b20c5b7095133e9ba123/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc45935bb626b30dbdbae72f4f0fd1d3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc45935bb626b30dbdbae72f4f0fd1d3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8bbf2b4fccd45e6673f41c7286a2e87e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8bbf2b4fccd45e6673f41c7286a2e87e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f110a48c097b0ba54ae00227db76d036/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f110a48c097b0ba54ae00227db76d036/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a3358057b7f1f18231f679b538d9072/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a3358057b7f1f18231f679b538d9072/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/241a2f08b7e22e31211d9911a9360cdc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/241a2f08b7e22e31211d9911a9360cdc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/723311f9f2a902b19088dd1260a8c122/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/723311f9f2a902b19088dd1260a8c122/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d21880f4c7d7163fcc4ea0cdc434e9d8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d21880f4c7d7163fcc4ea0cdc434e9d8/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5762f12feafb6c7ed499376d9e67ed25/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5762f12feafb6c7ed499376d9e67ed25/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:29:9-41
+	android:roundIcon
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:30:9-54
+	android:largeHeap
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:32:9-33
+	android:icon
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:28:9-40
+	android:allowBackup
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:33:9-65
+activity#com.example.suxiaohan.jniwithopencvdemo.MainActivity
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:34:9-42:20
+	android:screenOrientation
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:34:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml:40:27-74
+uses-sdk
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.google.vr:sdk-panowidget:1.40.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/sdk-panowidget-1.40.0.aar/49543e886428fc6aed2e6f130ad97ad8/AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-panowidget:1.40.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/sdk-panowidget-1.40.0.aar/49543e886428fc6aed2e6f130ad97ad8/AndroidManifest.xml:3:5-73
+MERGED from [:multi-image-selector] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/multi-image-selector/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:multi-image-selector] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/multi-image-selector/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b327bcd57be6ff6590cbff97462293ef/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b327bcd57be6ff6590cbff97462293ef/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5daa415107d43c10e19ae8f355a7afa0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5daa415107d43c10e19ae8f355a7afa0/AndroidManifest.xml:5:5-7:41
+MERGED from [:openCVLibrary2411] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/openCVLibrary2411/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:40
+MERGED from [:openCVLibrary2411] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/openCVLibrary2411/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:40
+MERGED from [com.google.vr:sdk-commonwidget:1.40.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/sdk-commonwidget-1.40.0.aar/756332f55f75913225d186889fac2f7f/AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-commonwidget:1.40.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/sdk-commonwidget-1.40.0.aar/756332f55f75913225d186889fac2f7f/AndroidManifest.xml:3:5-73
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab206434403b20c5b7095133e9ba123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab206434403b20c5b7095133e9ba123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc45935bb626b30dbdbae72f4f0fd1d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc45935bb626b30dbdbae72f4f0fd1d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8bbf2b4fccd45e6673f41c7286a2e87e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8bbf2b4fccd45e6673f41c7286a2e87e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f110a48c097b0ba54ae00227db76d036/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f110a48c097b0ba54ae00227db76d036/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a3358057b7f1f18231f679b538d9072/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a3358057b7f1f18231f679b538d9072/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/241a2f08b7e22e31211d9911a9360cdc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/241a2f08b7e22e31211d9911a9360cdc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/723311f9f2a902b19088dd1260a8c122/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/723311f9f2a902b19088dd1260a8c122/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d21880f4c7d7163fcc4ea0cdc434e9d8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d21880f4c7d7163fcc4ea0cdc434e9d8/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.vr:sdk-common:1.40.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/sdk-common-1.40.0.aar/6c1df21a8a6e83dec5b5d1e4a7c5500d/AndroidManifest.xml:3:5-73
+MERGED from [com.google.vr:sdk-common:1.40.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/sdk-common-1.40.0.aar/6c1df21a8a6e83dec5b5d1e4a7c5500d/AndroidManifest.xml:3:5-73
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5762f12feafb6c7ed499376d9e67ed25/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5762f12feafb6c7ed499376d9e67ed25/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b327bcd57be6ff6590cbff97462293ef/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/AndroidManifest.xml
+activity#me.nereo.multi_image_selector.MultiImageSelectorActivity
+ADDED from [:multi-image-selector] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/multi-image-selector/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:62
+	android:configChanges
+		ADDED from [:multi-image-selector] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/multi-image-selector/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-59
+	android:name
+		ADDED from [:multi-image-selector] /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/multi-image-selector/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-84
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b327bcd57be6ff6590cbff97462293ef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab206434403b20c5b7095133e9ba123/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8ab206434403b20c5b7095133e9ba123/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc45935bb626b30dbdbae72f4f0fd1d3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/dc45935bb626b30dbdbae72f4f0fd1d3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8bbf2b4fccd45e6673f41c7286a2e87e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/8bbf2b4fccd45e6673f41c7286a2e87e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f110a48c097b0ba54ae00227db76d036/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f110a48c097b0ba54ae00227db76d036/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a3358057b7f1f18231f679b538d9072/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9a3358057b7f1f18231f679b538d9072/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/241a2f08b7e22e31211d9911a9360cdc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/241a2f08b7e22e31211d9911a9360cdc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/723311f9f2a902b19088dd1260a8c122/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/723311f9f2a902b19088dd1260a8c122/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d21880f4c7d7163fcc4ea0cdc434e9d8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/d21880f4c7d7163fcc4ea0cdc434e9d8/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b327bcd57be6ff6590cbff97462293ef/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/b327bcd57be6ff6590cbff97462293ef/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5762f12feafb6c7ed499376d9e67ed25/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5762f12feafb6c7ed499376d9e67ed25/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/suxiaohan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/5762f12feafb6c7ed499376d9e67ed25/AndroidManifest.xml:26:13-58

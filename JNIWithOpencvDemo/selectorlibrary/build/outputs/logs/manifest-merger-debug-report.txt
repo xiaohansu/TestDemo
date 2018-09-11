@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:1:1-17:12
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:2:5-44
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:1:1-17:12
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:1:1-17:12
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:4:5-15:19
+	android:supportsRtl
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:5:9-35
+activity#com.scrat.app.selectorlibrary.activity.ImageSelectorActivity
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:6:9-9:66
+	android:screenOrientation
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:8:13-49
+	android:theme
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:9:13-63
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:7:13-59
+activity#com.scrat.app.selectorlibrary.activity.ImagePreviewActivity
+ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:11:9-14:66
+	android:screenOrientation
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:13:13-49
+	android:theme
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml:12:13-58
+uses-sdk
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/selectorlibrary/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Mon Sep 10 00:53:43 CST 2018
+base.0=/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex

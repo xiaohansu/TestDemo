@@ -1,0 +1,49 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/suxiaohan/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/debug/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"libopencv_java3-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "libopencv_java3",
+			"buildType" : "debug",
+			"output" : "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/jniLibs/x86/libopencv_java3.so",
+			"toolchain" : "10780582416507355609"
+		},
+		"native-lib-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "native-lib",
+			"buildCommand" : "/Users/suxiaohan/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/debug/x86 --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/suxiaohan/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/suxiaohan/Library/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -isystem /Users/suxiaohan/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/suxiaohan/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/suxiaohan/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/suxiaohan/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=19 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/debug/x86"
+				}
+			],
+			"output" : "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so",
+			"toolchain" : "10780582416507355609"
+		}
+	},
+	"toolchains" : 
+	{
+		"10780582416507355609" : 
+		{
+			"cCompilerExecutable" : "/Users/suxiaohan/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/suxiaohan/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

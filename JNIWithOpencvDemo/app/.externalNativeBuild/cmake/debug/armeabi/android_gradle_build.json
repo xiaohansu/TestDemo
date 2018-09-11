@@ -1,0 +1,49 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/suxiaohan/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/debug/armeabi --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"libopencv_java3-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "libopencv_java3",
+			"buildType" : "debug",
+			"output" : "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/jniLibs/armeabi/libopencv_java3.so",
+			"toolchain" : "10780582416507355609"
+		},
+		"native-lib-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "native-lib",
+			"buildCommand" : "/Users/suxiaohan/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/debug/armeabi --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=/Users/suxiaohan/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/suxiaohan/Library/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -isystem /Users/suxiaohan/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/suxiaohan/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/include -isystem /Users/suxiaohan/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/suxiaohan/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=19 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/debug/armeabi"
+				}
+			],
+			"output" : "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/build/intermediates/cmake/debug/obj/armeabi/libnative-lib.so",
+			"toolchain" : "10780582416507355609"
+		}
+	},
+	"toolchains" : 
+	{
+		"10780582416507355609" : 
+		{
+			"cCompilerExecutable" : "/Users/suxiaohan/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/suxiaohan/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
