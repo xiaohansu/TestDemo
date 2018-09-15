@@ -1,0 +1,7 @@
+
+    <resources>
+        <string name="app_name">VR Maker</string>
+        <string name="str_proc">合成</string>
+        <string name="str_save">保存</string>
+    </resources>
+
