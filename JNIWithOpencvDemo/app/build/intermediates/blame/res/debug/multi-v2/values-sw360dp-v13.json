@@ -1,6 +1,21 @@
 {
     "logs": [
         {
+            "outputFile": "/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/multi-image-selector/build/intermediates/bundles/debug/res/values-sw360dp-v13/values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,154",
+                        "endColumns": "52,45,44",
+                        "endOffsets": "103,149,194"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
             "map": [
                 {

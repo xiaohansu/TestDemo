@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener {
     private ImageButton ibtOpenFiles;
     private ImageView imageView;
     private DrawerLayout drawerLayout;
-    ArrayList<Mat> clickedImages = new ArrayList<Mat>();
+    private List<Mat> clickedImages = new ArrayList<Mat>();
     private ArrayList<String> mSelectPath;
     private Mat res = new Mat();
 

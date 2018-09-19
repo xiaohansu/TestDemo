@@ -1,4 +1,4 @@
-# Install script for directory: /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app
+# Install script for directory: /Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/debug/x86/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/debug/x86/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

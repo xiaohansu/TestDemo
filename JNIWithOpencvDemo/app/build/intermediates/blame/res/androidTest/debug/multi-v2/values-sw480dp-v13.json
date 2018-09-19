@@ -14,6 +14,21 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw480dp-v13/values-sw480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/multi-image-selector/build/intermediates/bundles/debug/res/values-sw480dp-v13/values-sw480dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,155",
+                        "endColumns": "52,46,44",
+                        "endOffsets": "103,150,195"
+                    }
+                }
+            ]
         }
     ]
 }

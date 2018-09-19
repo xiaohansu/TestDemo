@@ -1,3 +1,3 @@
-/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/edit_cache.dir
-/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/rebuild_cache.dir
-/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/native-lib.dir
+/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/edit_cache.dir
+/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/rebuild_cache.dir
+/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/native-lib.dir

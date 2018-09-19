@@ -1,12 +1,9 @@
 
 {
-	"buildFiles" : 
-	[
-		"/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/CMakeLists.txt"
-	],
+	"buildFiles" : [ "/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/CMakeLists.txt" ],
 	"cleanCommands" : 
 	[
-		"/Users/suxiaohan/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/release/armeabi-v7a --target clean"
+		"/Users/suxiaohan/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/release/armeabi-v7a --target clean"
 	],
 	"cppFileExtensions" : [ "cpp" ],
 	"libraries" : 
@@ -16,25 +13,25 @@
 			"abi" : "armeabi-v7a",
 			"artifactName" : "libopencv_java3",
 			"buildType" : "release",
-			"output" : "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/jniLibs/armeabi-v7a/libopencv_java3.so",
+			"output" : "/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/src/main/jniLibs/armeabi-v7a/libopencv_java3.so",
 			"toolchain" : "10780582416507355609"
 		},
 		"native-lib-Release-armeabi-v7a" : 
 		{
 			"abi" : "armeabi-v7a",
 			"artifactName" : "native-lib",
-			"buildCommand" : "/Users/suxiaohan/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/release/armeabi-v7a --target native-lib",
+			"buildCommand" : "/Users/suxiaohan/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/release/armeabi-v7a --target native-lib",
 			"buildType" : "release",
 			"files" : 
 			[
 				
 				{
 					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/suxiaohan/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/suxiaohan/Library/Android/sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -I../../../../src/main/cpp/include -isystem /Users/suxiaohan/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/suxiaohan/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /Users/suxiaohan/Library/Android/sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/suxiaohan/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=19 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -Os -DNDEBUG  -fPIC    -c ",
-					"src" : "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/src/main/cpp/native-lib.cpp",
-					"workingDirectory" : "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+					"src" : "/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/.externalNativeBuild/cmake/release/armeabi-v7a"
 				}
 			],
-			"output" : "/Users/suxiaohan/Desktop/苏宵涵/AndroidStudioProjects/JNIWithOpencvDemo/app/build/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so",
+			"output" : "/Users/suxiaohan/GitDemo/JNIWithOpencvDemo/app/build/intermediates/cmake/release/obj/armeabi-v7a/libnative-lib.so",
 			"toolchain" : "10780582416507355609"
 		}
 	},
