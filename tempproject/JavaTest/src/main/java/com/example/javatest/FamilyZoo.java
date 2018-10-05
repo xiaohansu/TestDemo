@@ -1,46 +1,63 @@
 package com.example.javatest;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * Created by suxiaohan on 2018/9/15.
  */
 
 public class FamilyZoo {
-    public static void main(String[] argv){
-        Cat Gaffey = new Cat();
-        Gaffey.move();
+    public static void main(String[] argv) {
 
-        RobotCat DoulaAmeng = new RobotCat();
-        DoulaAmeng.eat();
 
-        boolean ret = DoulaAmeng instanceof Cat;
-        System.out.println(ret);
-
-        AnimalList animalList = new AnimalList();
-        animalList.add(Gaffey);
-        animalList.add(DoulaAmeng);
-
-        ((RobotCat)animalList.getAnimals()[1]).speek();
-
-        Cat dindang = new Cat("dingdang",6);
-        dindang.getName();
+        String sr = new String("ddd");
+        sr = "";
+//        List<Animal> list = new ArrayList<Animal>();
+//        ArrayList<Dog> dogList = new ArrayList<Dog>();
+//        ArrayList<Cat> catList = new ArrayList<Cat>();
+//
+//        dogList.add(new Dog());
+//        dogList.add(new Dog());
+//        dogList.add(new Dog());
+//
+//        catList.add(new Cat());
+//        catList.add(new Cat());
+//        catList.add(new Cat());
+//
+//        FamilyZoo familyZoo = new FamilyZoo();
+//        familyZoo.takenAnimal(catList);
+//        familyZoo.takenAnimal(dogList);
 
     }
-    static void havefunc(Pet e){
+
+    static void havefunc(Pet e) {
         e.play();
+    }
+
+
+    public void takenAnimal(ArrayList<? extends Animal> list) {
+        for (Animal animal : list){
+            animal.eat();
+            System.out.println(animal.getClass().toString());
+        }
     }
 }
 
 
-abstract class Animal{
+abstract class Animal {
     abstract void eat();
+
     abstract void move();
+
     abstract void living();
 }
 
-abstract class Felidae extends Animal{
-    public Felidae(){
+abstract class Felidae extends Animal {
+    public Felidae() {
         System.out.println("i creat a Felidae ");
     }
+
     @Override
     void living() {
 
@@ -48,7 +65,7 @@ abstract class Felidae extends Animal{
 }
 
 
-class Cat extends Felidae{
+class Cat extends Felidae {
     public String getName() {
         return name;
     }
@@ -67,16 +84,20 @@ class Cat extends Felidae{
 
     private String name;
     private int age;
-    public Cat(String name){
+
+    public Cat(String name) {
         this.name = name;
     }
-    public Cat(String name,int age){
+
+    public Cat(String name, int age) {
         this(name);
         this.age = age;
     }
-    public Cat(){
+
+    public Cat() {
         System.out.println("i creat a Cat ");
     }
+
     @Override
     public void move() {
         System.out.println("run");
@@ -88,17 +109,36 @@ class Cat extends Felidae{
     }
 }
 
-class RobotCat extends Cat{
+class RobotCat extends Cat {
     @Override
     void eat() {
         System.out.println("battery");
     }
 
-    public void speek(){
+    public void speek() {
         System.out.println("hello human1");
     }
 }
-class AnimalList{
+
+class Dog extends Animal{
+    @Override
+    void eat() {
+        System.out.println("this is dog' eat!");
+    }
+
+    @Override
+    void move() {
+
+    }
+
+    @Override
+    void living() {
+
+    }
+}
+
+
+class AnimalList {
     public Animal[] getAnimals() {
         return animals;
     }
@@ -109,15 +149,16 @@ class AnimalList{
 
     private Animal[] animals = new Animal[5];
     private int nextindex = 0;
-    public void add(Animal a){
-       if (nextindex < animals.length){
-           animals[nextindex] = a;//
-           System.out.println(a.getClass());
-           nextindex++;
-       }
+
+    public void add(Animal a) {
+        if (nextindex < animals.length) {
+            animals[nextindex] = a;//
+            System.out.println(a.getClass());
+            nextindex++;
+        }
     }
 }
 
-interface Pet{
+interface Pet {
     abstract void play();
 }

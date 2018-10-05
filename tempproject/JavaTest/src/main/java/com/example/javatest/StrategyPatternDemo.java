@@ -16,9 +16,22 @@ public class StrategyPatternDemo {
         T.setFlyBehavior(new NoFly());
         T.performFly();
 
+
+        Duck Q = new Duck();
+        Q.setFlyBehavior(new FlyBehavior() {
+            @Override
+            public void fly() {
+                System.out.println("guess can i fly?");
+            }
+        });
+        Q.performFly();
+
     }
 
 
+}
+interface  simgleFlyBehavior{
+    void fly();
 }
 interface FlyBehavior{
     public void fly();

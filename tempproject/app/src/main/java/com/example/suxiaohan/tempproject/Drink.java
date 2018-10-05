@@ -1,5 +1,7 @@
 package com.example.suxiaohan.tempproject;
 
+import com.google.gson.Gson;
+
 /**
  * Created by suxiaohan on 2018/9/9.
  */
@@ -26,5 +28,9 @@ public class Drink {
     public int getImageResourceId() { return imageResourceId;
     }
     public String toString() { return this.name;
+    }
+
+    public static void main(String[] a){
+        Gson gson = new Gson();
     }
 }
